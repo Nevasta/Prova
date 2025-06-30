@@ -1,0 +1,11 @@
+body{
+    background-color: black;
+    color: white;
+    font-size: 15px;
+}
+p{font-size: 70px;
+color: blueviolet;}
+
+button{background-color: blueviolet;}
+
+.reiniciar{text-align: center;}
